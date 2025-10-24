@@ -1,0 +1,4 @@
+{
+    "Сыворотка Мора": "Addon_Killer_Halloween2020",
+    "Волшебный прут": "Halloween2022Offering"
+}

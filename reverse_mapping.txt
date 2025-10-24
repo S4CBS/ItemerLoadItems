@@ -1,0 +1,19 @@
+{
+	"Blight serum": "Addon_Killer_Halloween2020",
+    "Сыворотка Мора": "Addon_Killer_Halloween2020",
+    
+    "Волшебный прут": "Halloween2022Offering",
+    "Arcane Dowsing Rod": "Halloween2022Offering",
+    
+    "Ланчбокс всех святых": "Item_Camper_Medkit05",
+    "All Hallows' Eve Lunchbox": "Item_Camper_Medkit05",
+    
+    "Бракованная лампочка": "Addon_Flashlight_BrokenBulb",
+    "Broken bulb": "Addon_Flashlight_BrokenBulb",
+    
+    "Блуждающий огонек": "Item_Camper_Flashlight04",
+    "Will o' wisp": "Item_Camper_Flashlight04",
+    
+    "Очищенная сыворотка": "Addon_Medkit_BlightedSyringe",
+    "Refined serum": "Addon_Medkit_BlightedSyringe"
+}

@@ -1,0 +1,4 @@
+{
+	"Blight serum": "Addon_Killer_Halloween2020",
+    "Arcane Dowsing Rod": "Halloween2022Offering"
+}

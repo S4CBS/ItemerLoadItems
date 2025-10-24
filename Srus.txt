@@ -1,0 +1,6 @@
+{
+    "Ланчбокс всех святых": "Item_Camper_Medkit05",
+    "Бракованная лампочка": "Addon_Flashlight_BrokenBulb",
+    "Блуждающий огонек": "Item_Camper_Flashlight04",
+    "Очищенная сыворотка": "Addon_Medkit_BlightedSyringe"
+}
