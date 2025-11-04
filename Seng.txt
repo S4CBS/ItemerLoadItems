@@ -1,6 +1,3 @@
 {
-    "All Hallows' Eve Lunchbox": "Item_Camper_Medkit05",
-    "Broken bulb": "Addon_Flashlight_BrokenBulb",
-    "Will o' wisp": "Item_Camper_Flashlight04",
-    "Refined serum": "Addon_Medkit_BlightedSyringe"
+
 }
