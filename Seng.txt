@@ -1,2 +1,3 @@
 {
+  "Low Amp Filament": "Addon_Flashlight_007"
 }
