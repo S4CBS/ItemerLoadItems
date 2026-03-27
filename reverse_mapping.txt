@@ -24,5 +24,5 @@
     "Кровавый глаз": "Spring2024Offering",
 
     "Bloodsense Map": "Item_Camper_Map_Spring2024",
-    "Кровавая Карта": "Item_Camper_Map_Spring2024",
+    "Кровавая Карта": "Item_Camper_Map_Spring2024"
 }
