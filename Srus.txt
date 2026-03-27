@@ -1,3 +1,7 @@
 {
-  "Тонкая нить накаливания": "Addon_Flashlight_007"
+  "Тонкая нить накаливания": "Addon_Flashlight_007",
+
+	"Кровавый глаз": "Spring2024Offering",
+
+	"Кровавая Карта": "Item_Camper_Map_Spring2024"
 }
