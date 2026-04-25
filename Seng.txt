@@ -1,7 +1,3 @@
 {
-    "Low Amp Filament": "Addon_Flashlight_007",
-
-    "Bloodshot Eye": "Spring2024Offering",
-
-    "Bloodsense Map": "Item_Camper_Map_Spring2024"
+    "Low Amp Filament": "Addon_Flashlight_007"
 }
