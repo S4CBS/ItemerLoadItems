@@ -1,3 +1,4 @@
 {
-    "Тонкая нить накаливания": "Addon_Flashlight_007"
+    "Тонкая нить накаливания": "Addon_Flashlight_007",
+    "Кровавый глаз": "Spring2024Offering"
 }

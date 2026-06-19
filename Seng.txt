@@ -1,3 +1,4 @@
 {
-    "Low Amp Filament": "Addon_Flashlight_007"
+    "Low Amp Filament": "Addon_Flashlight_007",
+    "Bloodshot Eye": "Spring2024Offering"
 }
