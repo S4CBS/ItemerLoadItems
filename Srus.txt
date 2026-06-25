@@ -1,3 +1,8 @@
 {
-    "Тонкая нить накаливания": "Addon_Flashlight_007"
+    "Тонкая нить накаливания": "Addon_Flashlight_007",
+
+    "Банкетный фонарик": "Item_Camper_Flashlight_Anniversary2026",
+    "Банкетная аптечка": "Item_Camper_Medkit_Anniversary2026",
+    "Банкетный ящик с инструментами": "Item_Camper_Toolbox_Anniversary2026",
+    "Зубастый торт": "Anniversary2026Offering"
 }
