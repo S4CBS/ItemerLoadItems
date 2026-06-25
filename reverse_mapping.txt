@@ -27,5 +27,10 @@
     "Кровавая Карта": "Item_Camper_Map_Spring2024",
 
     "Черный защитник": "BlackWard",
-    "Black Ward": "BlackWard"
+    "Black Ward": "BlackWard",
+
+    "Банкетный фонарик": "Item_Camper_Flashlight_Anniversary2026",
+    "Банкетная аптечка": "Item_Camper_Medkit_Anniversary2026",
+    "Банкетный ящик с инструментами": "Item_Camper_Toolbox_Anniversary2026",
+    "Зубастый торт": "Anniversary2026Offering"
 }
