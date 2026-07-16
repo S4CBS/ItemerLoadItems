@@ -1,4 +1,3 @@
 {
-    "Черный защитник": "BlackWard",
-    "Зубастый торт": "Anniversary2026Offering"
+    "Черный защитник": "BlackWard"
 }
